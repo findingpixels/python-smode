@@ -18,7 +18,7 @@ conda env export --from-history -f environment.yml
 ```
 
 Note that the only libraries available to you will be the ones specified in
-the `environment.yml`, so be sure to include everything that you need! 
+the `environment.yml`, so be sure to include everything that you need!
 
 Also note that if you skip the `--from-history`, conda may include OS-specific
 packages in `environment.yml`, which you would have to manually prune from
@@ -29,3 +29,7 @@ be removed are:
 * appnope=0.1.0
 * libgfortran=3.0.1
 * libcxx=4.0.1
+
+
+## Adding some extra notes in readme
+* here are my new notes 
