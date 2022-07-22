@@ -30,6 +30,3 @@ be removed are:
 * libgfortran=3.0.1
 * libcxx=4.0.1
 
-
-## Adding some extra notes in readme
-* here are my new notes 
